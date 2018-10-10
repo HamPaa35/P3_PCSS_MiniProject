@@ -1,4 +1,10 @@
-# P3_PCSS_MiniProject
+# P3_PCSS_MiniProject_Mta18337
 
 
-Mathias er en fag bag
+Project made by:
+Abdulaziz Soud Salman Al Otaibi
+Christian Glerup Sørensen 
+Christian B. Johnsen
+Kasper Sørensen
+Mathas N. G. Faldt
+Rasmus Lund Jørgensen
