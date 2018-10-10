@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 using namespace std;
 int main(){
 
@@ -6,7 +7,7 @@ int main(){
 
     cin >> offens;
 
-    if(offens == "Kasper" ){
+    if(offens == "Kasper" || offens == "kasper" ){
         cout << "This dude is an Idiot!" << endl;
     }
 
