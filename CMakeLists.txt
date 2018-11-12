@@ -3,4 +3,4 @@ project(P3_PCSS_mini_project)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(P3_PCSS_mini_project main.cpp)
+add_executable(P3_PCSS_mini_project main.cpp Player.cpp Player.h Person.cpp Person.h)

@@ -1,22 +1,17 @@
 #include <iostream>
 #include <string>
+#include <stdlib.h>
+#include <time.h>
+#include <windows.h>
+#include <math.h>
+
+
+
 using namespace std;
+
 int main(){
 
-
-    string offens;
-
-    cin >> offens;
-
-    if(offens == "Kasper" || offens == "kasper" ){
-        cout << "This dude is an Idiot!" << endl;
-    }else {
-        cout << "Gud person" << endl;
-    }
-
-
-
-
-
+    //This is empty atm.
     return 0;
 }
+
